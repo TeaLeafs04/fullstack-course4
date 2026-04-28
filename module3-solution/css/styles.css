@@ -1,0 +1,130 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+}
+/* Navbar container */
+#header-nav {
+  background-color: #999999;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 1px 3px 1px;
+}
+/* Brand: Food, LLC */body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+}
+
+/* Navbar container */
+#header-nav {
+  background-color: #999999;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 1px 3px 1px;
+}
+
+/* Brand: Food, LLC */
+.navbar-brand {
+  padding-top: 10px;
+  color: #000;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+/* Remove underline on hover */
+.navbar-brand:hover,
+.navbar-brand:focus {
+  text-decoration: none;
+  color: #000;
+}
+
+/* Collapsible navigation */
+#collapsable-nav {
+  width: 100%;
+  background-color: white;
+}
+
+/* Navigation list */
+#nav-list {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation links */
+#nav-list .nav-link {
+  color: #000;
+  font-size: 1em;
+  background-color: white;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 1px 3px 1px;
+}
+
+/* Content spacing */
+.menu-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Put the background on an inner section, not directly on .col-12.
+   This preserves Bootstrap column spacing on the left and right. */
+.menu-section {
+  border-radius: 0;
+  background-color: grey;
+  padding: 20px;
+  margin-bottom: 20px;
+  min-height: 700px;
+  scroll-margin-top: 20px;
+}
+
+.menu-section a {
+  color: #000;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+/* Brand link */
+.navbar-brand a,
+.navbar-brand {
+  color: #000;
+  font-size: 2em;
+  font-weight: bold;
+}
+/* Remove underline on hover */
+.navbar-brand:hover,
+.navbar-brand:focus {
+  text-decoration: none;
+  color: #000;
+}
+/* Collapsible navigation */
+#collapsable-nav {
+  width: 100%;
+  background-color: white;
+}
+/* Navigation list */
+#nav-list {
+  width: 100%;
+  margin: 0;
+}
+/* Navigation links */
+#nav-list .nav-link {
+  color: #000;
+  font-size: 1em;
+  background-color: white;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 0 1px 3px 1px;
+}
+
+.menu-section {
+  background-color: grey;
+  margin: 20px 0;
+  padding: 20px;
+  min-height: 700px;
+}
